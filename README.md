@@ -1,2 +1,1 @@
-# NBA-Player-analysis-Alex-Caruso-2019-2020
-A comprehensive analysis of Alex Caruso's performance in the 2019-2020 season focusing on the relationship and correlation between playing time and game score. 
+In this repository I analyze Alex Caruso's performance throughout the 2019-2020 regular season and playoffs during the Los Angeles Lakers championship season. I use matplotlib and seaborn to highlight essential trends, numpy to clean the dataset and remove/fill null values to prepare for predictive modeling, and sklearn to analyze relationships between variables such as playing time and shooting percentage. 
